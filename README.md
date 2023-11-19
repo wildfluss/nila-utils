@@ -17,7 +17,6 @@ and add to MATLAB path
 TBW
 
 ```matlab
->> paired_dots
-введите значения по оси х через пробел в квадратных скобках 
+>> paired_dots_demo
 ```
 
